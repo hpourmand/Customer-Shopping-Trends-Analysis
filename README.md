@@ -5,8 +5,13 @@ This project analyzes customer shopping trends using a dataset with 3900 entries
 
 
 The following Python libraries were used to run this project:
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
