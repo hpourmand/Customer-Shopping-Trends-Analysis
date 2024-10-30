@@ -17,4 +17,3 @@ seaborn
 scikit-learn
 
 
-*** Predictive Models will be added soon!
